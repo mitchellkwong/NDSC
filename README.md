@@ -11,4 +11,4 @@ This notebook contains sample code that handles the preprocessing of text data u
 (More accurately, the mean of token vectors are averaged)
 
 ### nlp-model
-This notebook handles the pre-training of the nlp model before its integration into the meta classifier (as described in the report). Time-efficient and effectiveness motivated the use of early stopping and model checkpointing to tackle overfitting.
+This notebook handles the pre-training of the nlp model before its integration into the meta classifier (as described in the report). Time-efficiency and effectiveness motivated the use of early stopping and model checkpointing to tackle overfitting.
