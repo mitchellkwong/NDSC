@@ -1,5 +1,3 @@
-# NDSC
-
 ## Overview
 A transfer learning model was built to classify paired text and image data. 
 (More details in the report) As the competition was hosted on kaggle, the code was broken up into several notebooks to keep within kaggle's memory, storage and runtime limitations.
